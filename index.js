@@ -1,6 +1,7 @@
 //find even numbers
+//odd number
 
-n=20;
+n=21
 if(n%2==0)
 {
     console.log("even number");
@@ -8,3 +9,5 @@ if(n%2==0)
 else{
     console.log("odd number")
 }
+
+
